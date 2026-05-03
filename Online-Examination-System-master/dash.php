@@ -108,8 +108,6 @@ echo '<span class="pull-right top title1">
 <!--navigation menu closed-->
 
 
-
-
 <div class="container"><!--container start-->
 <div class="row">
 <div class="col-md-12">
